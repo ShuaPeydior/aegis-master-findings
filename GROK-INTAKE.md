@@ -1,6 +1,6 @@
 # AEGIS_GROK_HANDOFF_v1
 
-**For the other Grok conversation.** Fetch this repository and append every case to the master report. Append only. Do not delete prior entries.
+**For the other Grok conversation.** Fetch the findings file and append every case to the master report. Append only. Do not delete prior entries.
 
 ## Paste this into the other Grok chat
 
@@ -13,16 +13,12 @@ Append all 11 transmissions and 31 findings to the master report. Append only.
 Watchline +1 253 213 4775 is the priority correspondent. Piggybacks around that number are material.
 Preserve chain of custody, causation, quantified damages, named threat actors, and legal recovery path.
 State what each finding is and why it is important.
-
-Raw JSON packet:
-https://raw.githubusercontent.com/ShuaPeydior/aegis-master-findings/main/aegis-grok-handoff.json
 ```
 
 ## Repo
 - Findings: https://github.com/ShuaPeydior/aegis-master-findings/blob/main/AEGIS-MASTER-FINDINGS.md
-- JSON: https://github.com/ShuaPeydior/aegis-master-findings/blob/main/aegis-grok-handoff.json
+- Raw: https://raw.githubusercontent.com/ShuaPeydior/aegis-master-findings/main/AEGIS-MASTER-FINDINGS.md
 - Caption: In re transmission integrity — watchline +1 253 213 4775
-- Generated: 2026-09-13T13:53:45Z
 - Transmissions: 11
 - Findings: 31
 - Actions: 36
